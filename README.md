@@ -1,6 +1,4 @@
 # MiniJavaCompiler
-This is a mini collaborative project where we build a mini java compiler with C , Yacc/Bison and Lex.
-
 # 
 To start the project , all you have to do is run the following command :
 ``` Shell
